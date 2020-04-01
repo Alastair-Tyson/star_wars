@@ -15,3 +15,5 @@ I used a combination of pandas and networkx to build the network for each film a
 Using plotly's instructions https://plotly.com/python/v3/3d-network-graph/, I created a go.Figure object which took all the nodes in 3D space and plotted them, I then also attached the edges in a similar way. I colour coded each node by which film the character first appeared in and created hover info which told you how many other characters a given person shared a scene with in the network (the app allows you to view connections across as many films as you would like).
 
 To finish off the app, I added in a function which allows a user to click on a node and underneath give a list of characters that person appeared with.
+
+App can be found here http://star-wars-characters-dev.eu-west-2.elasticbeanstalk.com/
