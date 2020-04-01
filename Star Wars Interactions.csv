@@ -1,0 +1,506 @@
+﻿Scene,Characters,Location,Film
+1,"R2-D2,C-3PO,Anakin Skywalker/Darth Vader",Tantive 4,4
+2,"Princess Leia,R2-D2,C-3PO,Anakin Skywalker/Darth Vader,Captain Antilles",Tantive 4,4
+3,"Princess Leia,Anakin Skywalker/Darth Vader",Tantive 4,4
+4,"R2-D2,C-3PO,Anakin Skywalker/Darth Vader",Escape Pod,4
+5,"R2-D2,C-3PO,Anakin Skywalker/Darth Vader",Tatooine,4
+6,"R2-D2,C-3PO,Luke Skywalker,Beru Owen,Lars Own",Tatooine,4
+7,"R2-D2,C-3PO,Luke Skywalker,Beru Owen,Lars Own",Tatooine,4
+8,"Luke Skywalker,Owen Lars,Beru Lars",Tatooine,4
+9,"C-3PO,Luke Skywalker,Owen Lars,Beru Lars",Tatooine,4
+10,"R2-D2,C-3PO,Luke Skywalker",Tatooine,4
+11,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi",Tatooine,4
+12,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi",Tatooine,4
+13,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi",Tatooine,4
+14,"Anakin Skywalker/Darth Vader,Grand Moff Tarkin,Admiral Motti,General Tagge",Death Star,4
+15,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi",Tatooine,4
+16,"Anakin Skywalker/Darth Vader,Princess Leia",Death Star,4
+17,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi",Tatooine,4
+18,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi",Tatooine,4
+19,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi,Chewbacca,Cornelius Evazan,Ponda Baba",Tatooine,4
+20,"Luke Skywalker,Obi-Wan Kenobi,Han Solo,Chewbacca",Tatooine,4
+21,"Han Solo,Greedo",Tatooine,4
+22,"Anakin Skywalker/Darth Vader,Grand Moff Tarkin,Admiral Motti,General Tagge",Various,4
+,"Luke Skywalker,R2-D2,C-3PO",Tatooine,4
+23,"Jabba the Hutt,Han Solo,Chewbacca,Boba Fett",Tatooine,4
+24,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi,Chewbacca,Han Solo",Millenium Falcon,4
+25,"Anakin Skywalker/Darth Vader,Princess Leia,Grand Moff Tarkin",Death Star,4
+26,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi,Chewbacca,Han Solo",Various,4
+27,"Luke Skywalker,Obi-Wan Kenobi,Han Solo,Chewbacca",Millenium Falcon,4
+28,"Anakin Skywalker/Darth Vader,Grand Moff Tarkin",Death Star,4
+29,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi,Chewbacca,Han Solo",Death Star,4
+30,"R2-D2,C-3PO,Luke Skywalker,Obi-Wan Kenobi,Chewbacca,Han Solo",Death Star,4
+31,"Luke Skywalker,Obi-Wan Kenobi,Han Solo,Chewbacca,Anakin Skywalker/Darth Vader",Death Star,4
+32,"Luke Skywalker,Han Solo,Princess Leia,Chewbacca",Death Star,4
+33,"Anakin Skywalker/Darth Vader,Grand Moff Tarkin",Death Star,4
+34,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo",Death Star,4
+35,"Luke Skywalker,Han Solo,Princess Leia,Chewbacca",Death Star,4
+36,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo",Death Star,4
+37,"Luke Skywalker,Han Solo,Princess Leia,Chewbacca,Obi-Wan Kenobi",Death Star,4
+38,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo,Obi-Wan Kenobi",Death Star,4
+39,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Death Star,4
+40,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Death Star,4
+41,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo",Millenium Falcon,4
+42,"Anakin Skywalker/Darth Vader,Grand Moff Tarkin",Death Star,4
+43,"Luke Skywalker,Han Solo,Princess Leia,Chewbacca,Anakin Skywalker/Darth Vader,Grand Moff Tarkin",Various,4
+44,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo,General Willard",Yavin IV,4
+45,"Anakin Skywalker/Darth Vader,Grand Moff Tarkin",Death Star,4
+46,"Luke Skywalker,Han Solo,Princess Leia,Chewbacca,Wedge Antilles,General Jan Dodonna",Yavin IV,4
+47,"Anakin Skywalker/Darth Vader,Grand Moff Tarkin",Death Star,4
+48,"C-3PO,Luke Skywalker,Han Solo,Chewbacca",Yavin IV,4
+49,"Luke Skywalker,Princess Leia,General Willard,Biggs Darklighter,R2-D2,C-3PO",Yavin IV,4
+50,"Princess Leia,General Jan Dodonna,C-3PO,Luke Skywalker,Biggs Darklighter,Wedge Antilles,Jek Porkins,Garven Dreis,Jon Vander",Death Star,4
+51,Anakin Skywalker/Darth Vader,Death Star,4
+52,"Jon Vanders,Princess Leia,General Jan Dodonna,C-3PO,Dex Tiree,Davish Krail,Grand Moff Tarkin,Garven Dreis,Theron Nett,Puck Naeco,Anakin Skywalker/Darth Vader,Luke Skywalker,Biggs Darklighter,Wedge Antilles",Death Star,4
+53,"Luke Skywalker,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,R2-D2,Han Solo,Chewbacca",Death Star,4
+54,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo",Yavin IV,4
+55,"R2-D2,C-3PO,Luke Skywalker,Princess Leia,Chewbacca,Han Solo,General Jan Dodonna",Yavin IV,4
+1,"Han Solo,Luke Skywalker",Hoth,5
+2,"General Rieekan,Princess Leia,Han Solo,R2-D2,C-3PO,Chewbacca",Hoth,5
+3,Luke Skywalker,Hoth,5
+4,"Han Solo,Luke Skywalker",Hoth,5
+5,"General Bren Derlin,Princess Leia,Chewbacca,C-3PO,R2-D2",Hoth,5
+6,"Luke Skywalker,Han Solo,Obi-Wan Kenobi",Hoth,5
+7,"Zev Senesca,Han Solo",Hoth,5
+8,"Luke Skywalker,Princess Leia,Han Solo,Chewbacca,R2-D2,C-3PO",Hoth,5
+9,"General Rieekan,Princess Leia,Han Solo,R2-D2,C-3PO,Chewbacca",Hoth,5
+10,"Admiral Ozel,Admiral Piett,General Veers,Anakin Skywalker/Darth Vader",Star Destroyer,5
+11,"General Rieekan,Han Solo,Luke Skywalker,Chewbacca",Hoth,5
+12,"Admiral Ozel,Admiral Piett,General Veers,Anakin Skywalker/Darth Vader",Hoth,5
+13,"General Bren Derlin,Hobbie,Princess Leia,Luke Skywalker,Dak Ralter,C-3PO,General Rieekan",Hoth,5
+14,"Luke Skywalker,Dak Ralter,Wedge Antilles,Wes Janson",Hoth,5
+15,"Anakin Skywalker/Darth Vader,General Veers",Hoth,5
+16,"General Rieekan,Princess Leia,C-3PO,R2-D2,Luke Skywalker,Han Solo,Chewbacca",Hoth,5
+17,General Veers,Hoth,5
+18,"Zev Senesca,Luke Skywalker",Hoth,5
+19,"Luke Skywalker,Han Solo,C-3PO,Princess Leia",Hoth,5
+20,General Veers,Hoth,5
+21,"Han Solo,Princess Leia,C-3PO,Chewbacca",Hoth,5
+22,"Han Solo,Princess Leia,C-3PO,Chewbacca,Anakin Skywalker/Darth Vader",Hoth,5
+23,Luke Skywalker,Hoth,5
+24,"Luke Skywalker,R2-D2,Wedge Antilles",Hoth,5
+25,"Han Solo,Princess Leia,C-3PO,Chewbacca",Millenium Falcon,5
+26,"Han Solo,Princess Leia,C-3PO,Chewbacca",Millenium Falcon,5
+27,"Luke Skywalker,R2-D2",Dagobah,5
+28,"Admiral Piett,Anakin Skywalker/Darth Vader",Star Destroyer,5
+29,"Han Solo,Princess Leia,C-3PO,Chewbacca",Millenium Falcon,5
+30,"Luke Skywalker,R2-D2,Yoda",Dagobah,5
+31,"Han Solo,Princess Leia,C-3PO,Chewbacca",Millenium Falcon,5
+32,"Captain Needa,Admiral Piett,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Star Destroyer,5
+33,"Luke Skywalker,R2-D2,Yoda,Obi-Wan Kenobi",Dagobah,5
+34,"Han Solo,Princess Leia,C-3PO,Chewbacca",Millenium Falcon,5
+35,"Luke Skywalker,R2-D2,Yoda",Dagobah,5
+36,"Luke Skywalker,R2-D2,Yoda,Anakin Skywalker/Darth Vader",Dagobah,5
+37,"Admiral Piett,Anakin Skywalker/Darth Vader,Boba Fett",Star Destroyer,5
+38,"Han Solo,Princess Leia,C-3PO,Chewbacca,Captain Needa",Various,5
+39,"Luke Skywalker,R2-D2,Yoda",Dagobah,5
+40,"Captain Needa,Anakin Skywalker/Darth Vader,Admiral Piett",Star Destroyer,5
+41,"Han Solo,Princess Leia,C-3PO,Chewbacca,Boba Fett",Millenium Falcon,5
+42,"Luke Skywalker,R2-D2,Yoda",Dagobah,5
+43,"Han Solo,Princess Leia,C-3PO,Chewbacca",Millenium Falcon,5
+44,"Han Solo,Princess Leia,C-3PO,Chewbacca,Lando Calrissian",Bespin,5
+45,"Luke Skywalker,R2-D2,Yoda,Obi-Wan Kenobi",Dagobah,5
+46,"Han Solo,Princess Leia,C-3PO,Chewbacca,Lando Calrissian",Bespin,5
+47,"Han Solo,Princess Leia,C-3PO,Chewbacca,Lando Calrissian,Anakin Skywalker/Darth Vader",Bespin,5
+48,"Luke Skywalker,R2-D2",Bespin,5
+49,"Chewbacca,C-3PO",Bespin,5
+50,"Han Solo,Anakin Skywalker/Darth Vader,Lando Calrissian,Boba Fett",Bespin,5
+51,"Han Solo,Chewbacca,C-3PO,Princess Leia,Lando Calrissian",Bespin,5
+52,"Lando Calrissian,Anakin Skywalker/Darth Vader",Bespin,5
+53,"Anakin Skywalker/Darth Vader,Lando Calrissian,Boba Fett,Han Solo,Chewbacca,Princess Leia",Bespin,5
+54,"Luke Skywalker,Boba Fett,Princess Leia,Chewbacca,C-3PO,Lando Calrissian,R2-D2",Bespin,5
+55,"Luke Skywalker,Anakin Skywalker/Darth Vader",Bespin,5
+56,"Princess Leia,Lando Calrissian,R2-D2,Chewbacca,C-3PO",Bespin,5
+57,"Luke Skywalker,Anakin Skywalker/Darth Vader",Bespin,5
+58,"Princess Leia,Lando Calrissian,R2-D2,Chewbacca,C-3PO",Bespin,5
+59,"Luke Skywalker,Anakin Skywalker/Darth Vader",Bespin,5
+60,"Luke Skywalker,Princess Leia,Chewbacca,Lando Calrissian",Millenium Falcon,5
+61,"Princess Leia,Luke Skywalker,Chewbacca,Lando Calrissian,R2-D2,C-3PO,Anakin Skywalker/Darth Vader",Millenium Falcon,5
+62,"Princess Leia,Luke Skywalker,Chewbacca,R2-D2,C-3PO,Lando Calrissian",Alliance Fleet,5
+,"Moff Jerjerrod,Anakin Skywalker/Darth Vader",Death Star 2,6
+,"C-3PO,R2-D2,Bib Fortuna,Jabba the Hutt",Tatooine,6
+,"R2-D2,C-3PO,EV9-D9",Tatooine,6
+,"Jabba the Hutt,C-3PO,Oola",Tatooine,6
+,"Princess Leia,Chewbacca,C-3PO,Jabba the Hutt,Boba Fett,Lando Calrissian",Tatooine,6
+,"Princess Leia,Han Solo",Tatooine,6
+,"Han Solo,Princess Leia,Jabba the Hutt,C-3PO,Lando Calrissian",Tatooine,6
+,"Han Solo,Chewbacca,C-3PO,Princess Leia,Lando Calrissian",Tatooine,6
+,"Luke Skywalker,Bib Fortuna,Jabba the Hutt,Princess Leia,Lando Calrissian",Tatooine,6
+,"Luke Skywalker,Han Solo,Jabba the Hutt,C-3PO,Chewbacca,Lando Calrissian,Boba Fett,Princess Leia",Tatooine,6
+,"R2-D2,Princess Leia,Jabba the Hutt,C-3PO,Han Solo,Luke Skywalker,Lando Calrissian,Chewbacca",Tatooine,6
+,"C-3PO,Jabba the Hutt,Luke Skywalker,R2-D2,Lando Calrissian,Han Solo,Chewbacca,Boba Fett,Princess Leia",Tatooine,6
+,"Luke Skywalker,Yoda,R2-D2",Dagobah,6
+,"Yoda,Obi-Wan Kenobi,Luke Skywalker",Dagobah,6
+,"Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader,Moff Jerjerrod",Death Star 2,6
+,"Mon Mothma,Admiral Ackbar,General Madine,Lando Calrissian,Han Solo,Chewbacca,Princess Leia,Luke Skywalker,R2-D2",Alliance Fleet,6
+,"Han Solo,Lando Calrissian,Princess Leia,Chewbacca,Luke Skywalker,R2-D2,C-3PO",Alliance Fleet,6
+,"Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader,Moff Jerjerrod",Death Star 2,6
+,"Han Solo,Princess Leia,Chewbacca,Luke Skywalker,C-3PO,R2-D2",Death Star 2,6
+,"Admiral Piett,Anakin Skywalker/Darth Vader",Star Destroyer,6
+,"Han Solo,Princess Leia,Chewbacca,Luke Skywalker,C-3PO,R2-D2",Endor,6
+,"Princess Leia,Luke Skywalker",Endor,6
+,"Luke Skywalker,Han Solo,Chewbacca,R2-D2,C-3PO",Endor,6
+,"Princess Leia,Wicket W Warwick",Endor,6
+,"Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader",Death Star 2,6
+,"Luke Skywalker,Han Solo,Chewbacca,R2-D2,C-3PO",Endor,6
+,"Luke Skywalker,Han Solo,Chewbacca,R2-D2,C-3PO,Princess Leia,Wicket W Warwick",Endor,6
+,"Luke Skywalker,Han Solo,Chewbacca,R2-D2,C-3PO,Princess Leia,Wicket W Warwick",Endor,6
+,"Princess Leia,Luke Skywalker,Han Solo",Endor,6
+,"Anakin Skywalker/Darth Vader,Luke Skywalker",Endor,6
+,"Han Solo,Princess Leia,Wicket W Warwick,C-3PO,Chewbacca,Paploo",Endor,6
+,"Admiral Ackbar,Lando Calrissian,Nien Nunb",Millenium Falcon,6
+,"Han Solo,Princess Leia,Chewbacca,R2-D2,C-3PO,Wicket W Warwick,Paploo",Endor,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Death Star 2,6
+,"Han Solo,Princess Leia,Chewbacca,R2-D2,C-3PO,Wicket W Warwick",Endor,6
+,"Lando Calrissian,Nien Nunb,Wedge Antilles,Admiral Ackbar",Alliance Fleet,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Death Star 2,6
+,"Han Solo,Princess Leia,Chewbacca,R2-D2,C-3PO,Wicket W Warwick",Endor,6
+,"Lando Calrissian,Nien Nunb,Wedge Antilles,Admiral Ackbar",Alliance Fleet,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious,Admiral Piett,Moff Jerjerrod",Death Star 2,6
+,"Admiral Ackbar,Lando Calrissian,Nien Nunb",Alliance Fleet,6
+,"R2-D2,C-3PO,Princess Leia,Han Solo",Endor,6
+,Lando Calrissian,Millenium Falcon,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Death Star 2,6
+,"Han Solo,Chewbacca,Princess Leia,R2-D2,C-3PO",Endor,6
+,"Wedge Antilles,Nien Nunb,Lando Calrissian,Han Solo,Chewbacca",Various,6
+,Luke Skywalker,Death Star 2,6
+,"Han Solo,Admiral Ackbar,Nien Nunb,Lando Calrissian",Various,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Death Star 2,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Death Star 2,6
+,"Admiral Ackbar,Admiral Piett,Wedge Antilles,Lando Calrissian,Nien Nunb",Various,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader",Death Star 2,6
+,"Wedge Antilles,Luke Skywalker,Nien Nunb,Lando Calrissian",Death Star 2,6
+,"Princess Leia,Han Solo,R2-D2,C-3PO,Wicket W Warwick,Chewbacca",Endor,6
+,"Luke Skywalker,Anakin Skywalker/Darth Vader",Endor,6
+,"Luke Skywalker,Princess Leia,Han Solo,Chewbacca,R2-D2,C-3PO,Wedge Antilles,Nien Nunb,Lando Calrissian,Yoda,Anakin Skywalker/Darth Vader,Obi-Wan Kenobi",Endor,6
+,"Obi-Wan Kenobi,Qui-Gon Jinn",Naboo,1
+,"TC-14,Nute Gunray,Daultray Dofine",Naboo,1
+,"TC-14,Qui-Gon Jinn,Obi-Wan Kenobi",Naboo,1
+,"Emperor Palpatine/Darth Sidious,Nute Gunray,Rune Haako,Daultray Dofine",Naboo,1
+,"Obi-Wan Kenobi,Qui-Gon Jinn",Naboo,1
+,"Obi-Wan Kenobi,Qui-Gon Jinn",Naboo,1
+,"Nute Gunray,Rune Haako,Padme Amidala",Naboo,1
+,"Emperor Palpatine/Darth Sidious,Padme Amidala,Sio Bibble,Captain Panaka",Naboo,1
+,"Nute Gunray,Rune Haako",Naboo,1
+,"Qui-Gon Jinn,Jar Jar Binks",Naboo,1
+,"Obi-Wan Kenobi,Qui-Gon Jinn,Jar Jar Binks",Naboo,1
+,"Obi-Wan Kenobi,Qui-Gon Jinn,Jar Jar Binks,Captain Tarpals",Naboo,1
+,"Boss Nass,Obi-Wan Kenobi,Qui-Gon Jinn,Jar Jar Binks",Naboo,1
+,"Emperor Palpatine/Darth Sidious,Nute Gunray,Rune Haako",Naboo,1
+,"Nute Gunray,Rune Haako,Padme Amidala,Sio Bibble,Captain Panaka",Naboo,1
+,"Obi-Wan Kenobi,Qui-Gon Jinn,Jar Jar Binks",Naboo,1
+,"Qui-Gon Jinn,Jar Jar Binks,Obi-Wan Kenobi,Captain Panaka,Padme Amidala,Sio Bibble,Ric Olie,Sabe",Naboo,1
+,"Ric Olie,Padme Amidala,Qui-Gon Jinn,Obi-Wan Kenobi,Jar Jar Binks,Captain Panaka,R2-D2,Sabe",Naboo,1
+,"Emperor Palpatine/Darth Sidious,Darth Maul,Rune Haako,Nute Gunray",Naboo,1
+,"R2-D2,Padme Amidala,Jar Jar Binks,Captain Panaka,Qui-Gon Jinn,Obi-Wan Kenobi",Space,1
+,"Ric Olie,Qui-Gon Jinn,Obi-Wan Kenobi",Tatooine,1
+,"R2-D2,Qui-Gon Jinn,Captain Panaka,Jar Jar Binks,Padme Amidala",Tatooine,1
+,"Sebulba,Jar Jar Binks,Anakin Skywalker/Darth Vader,Shmi Skywalker,Qui-Gon Jinn,R2-D2,C-3PO,Padme Amidala",Tatooine,1
+,"Obi-Wan Kenobi,Captain Panaka,Sabe",Tatooine,1
+,"Emperor Palpatine/Darth Sidious,Darth Maul",Coruscant,1
+,"Shmi Skywalker,Anakin Skywalker/Darth Vader,R2-D2,Padme Amidala,Qui-Gon Jinn,Jar Jar Binks",Tatooine,1
+,"Qui-Gon Jinn,Watto,Anakin Skywalker/Darth Vader",Tatooine,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi,C-3PO,Shmi Skywalker,Kitster,Anakin Skywalker/Darth Vader,R2-D2,Jar Jar Binks,Padme Amidala,Greedo",Tatooine,1
+,Darth Maul,Tatooine,1
+,"Watto,Qui-Gon Jinn,Jar Jar Binks",Tatooine,1
+,"Padme Amidala,Anakin Skywalker/Darth Vader,Kitster,Shmi Skywalker,R2-D2,C-3PO",Tatooine,1
+,"Sebulba,Anakin Skywalker/Darth Vader,Jabba the Hutt,Bib Fortuna,Qui-Gon Jinn,Shmi Skywalker",Tatooine,1
+,"Padme Amidala,Qui-Gon Jinn,Shmi Skywalker,Jar Jar Binks,Anakin Skywalker/Darth Vader,Sebulba,C-3PO,R2-D2,Watto",Tatooine,1
+,"Sebulba,Jabba the Hutt,Anakin Skywalker/Darth Vader,C-3PO,R2-D2,Jar Jar Binks,Shmi Skywalker,Qui-Gon Jinn",Tatooine,1
+,"Sebulba,Anakin Skywalker/Darth Vader,Jabba the Hutt,Bib Fortuna,Padme Amidala,Shmi Skywalker,Qui-Gon Jinn,Jar Jar Binks,R2-D2,Watto,C-3PO",Tatooine,1
+,"Jar Jar Binks,Anakin Skywalker/Darth Vader,Padme Amidala,Shmi Skywalker,R2-D2,C-3PO,Qui-Gon Jinn,Watto",Tatooine,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi,Jar Jar Binks,Padme Amidala,R2-D2",Tatooine,1
+,"Qui-Gon Jinn,Shmi Skywalker,C-3PO,Anakin Skywalker/Darth Vader",Tatooine,1
+,"Anakin Skywalker/Darth Vader,Qui-Gon Jinn,Darth Maul,Obi-Wan Kenobi,Padme Amidala,Captain Panaka",Tatooine,1
+,"Nute Gunray,Sio Bibble",Naboo,1
+,"Padme Amidala,Anakin Skywalker/Darth Vader,R2-D2,Jar Jar Binks",Space,1
+,"Emperor Palpatine/Darth Sidious,Chancellor Valorum,Padme Amidala,Jar Jar Binks,Anakin Skywalker/Darth Vader,Captain Panaka,R2-D2,Qui-Gon Jinn,Obi-Wan Kenobi",Coruscant,1
+,"Padme Amidala,Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader,Jar Jar Binks,Captain Panaka",Coruscant,1
+,"Obi-Wan Kenobi,Yoda,Qui-Gon Jinn,Ki-Adi-Mundi,Mace Windu,Plo Koon",Coruscant,1
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Coruscant,1
+,"Emperor Palpatine/Darth Sidious,Padme Amidala,Captain Panaka,Chancellor Valorum,Lott Dod",Coruscant,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi",Coruscant,1
+,"Anakin Skywalker/Darth Vader,Yoda,Ki-Adi-Mundi,Mace Windu,Plo Koon",Coruscant,1
+,"Jar Jar Binks,Padme Amidala,Emperor Palpatine/Darth Sidious,Captain Panaka",Coruscant,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi,Yoda,Ki-Adi-Mundi,Mace Windu,Plo Koon",Coruscant,1
+,"Padme Amidala,Anakin Skywalker/Darth Vader,Qui-Gon Jinn,Obi-Wan Kenobi,Captain Panaka,R2-D2",Coruscant,1
+,"Nute Gunray,Emperor Palpatine/Darth Sidious,Darth Maul,Rune Haako",Naboo,1
+,"Ric Olie,Anakin Skywalker/Darth Vader,Padme Amidala,Captain Panaka,Qui-Gon Jinn,Jar Jar Binks,Obi-Wan Kenobi",Space,1
+,"Obi-Wan Kenobi,Qui-Gon Jinn",Naboo,1
+,"Jar Jar Binks,Captain Panaka,Padme Amidala,Boss Nass,Sabe,Anakin Skywalker/Darth Vader,Qui-Gon Jinn,Obi-Wan Kenobi,R2-D2",Naboo,1
+,"Nute Gunray,Emperor Palpatine/Darth Sidious,Darth Maul,Rune Haako",Naboo,1
+,"Boss Nass,Jar Jar Binks,Captain Panaka,Padme Amidala,Qui-Gon Jinn,Obi-Wan Kenobi,R2-D2,Anakin Skywalker/Darth Vader",Naboo,1
+,"Nute Gunray,Emperor Palpatine/Darth Sidious,Darth Maul,Rune Haako",Naboo,1
+,"Jar Jar Binks,Roos Tarpals",Naboo,1
+,"Padme Amidala,Qui-Gon Jinn,Obi-Wan Kenobi,Captain Panaka,Anakin Skywalker/Darth Vader,R2-D2",Naboo,1
+,"Darth Maul,Nute Gunray,Rune Haako",Naboo,1
+,"Sabe,Padme Amidala,Qui-Gon Jinn,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,R2-D2",Naboo,1
+,"Jar Jar Binks,Roos Tarpals",Naboo,1
+,"Padme Amidala,Qui-Gon Jinn,Obi-Wan Kenobi,Captain Panaka,Anakin Skywalker/Darth Vader,R2-D2,Captain Panaka,Sabe",Naboo,1
+,"Darth Maul,Obi-Wan Kenobi,Qui-Gon Jinn,Padme Amidala,Sabe,Anakin Skywalker/Darth Vader,R2-D2,Captain Panaka",Naboo,1
+,"Anakin Skywalker/Darth Vader,R2-D2",Naboo,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi,Darth Maul",Naboo,1
+,"Anakin Skywalker/Darth Vader,R2-D2",Naboo,1
+,"Captain Panaka,Padme Amidala",Naboo,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi,Darth Maul",Naboo,1
+,"Jar Jar Binks,Roos Tarpals",Naboo,1
+,"Padme Amidala,Captain Panaka",Naboo,1
+,"Anakin Skywalker/Darth Vader,R2-D2",Naboo,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi,Darth Maul",Naboo,1
+,"Sabe,Padme Amidala,Captain Panaka,Nute Gunray,Rune Haako",Naboo,1
+,"Qui-Gon Jinn,Obi-Wan Kenobi,Darth Maul",Naboo,1
+,"Anakin Skywalker/Darth Vader,R2-D2",Naboo,1
+,"Jar Jar Binks,Roos Tarpals",Naboo,1
+,"Emperor Palpatine/Darth Sidious,Ki-Adi-Mundi,Yoda,Nute Gunray,Padme Amidala,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,Captain Panaka,Rune Haako",Naboo,1
+,"Yoda,Obi-Wan Kenobi",Naboo,1
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious,Boss Nass,Jar Jar Binks,Padme Amidala,R2-D2",Naboo,1
+,"Yoda,Mace Windu",Naboo,1
+,"Anakin Skywalker/Darth Vader,Padme Amidala,Mace Windu,Ki-Adi-Mundi,Yoda,Boss Nass,Jar Jar Binks,Obi-Wan Kenobi,Emperor Palpatine/Darth Sidious,Sio Bibble,R2-D2,Captain Panaka",Naboo,1
+,"Captain Typho,Padme Amidala,R2-D2",Coruscant,2
+,"Captain Typho,Dorme,Ki-Adi-Mundi,Yoda,Mace Windu,Emperor Palpatine/Darth Sidious,Padme Amidala,Bail Organa,Jar Jar Binks,R2-D2",Coruscant,2
+,"Anakin Skywalker/Darth Vader,Padme Amidala,Obi-Wan Kenobi,Jar Jar Binks,Dorme,Captain Typho",Coruscant,2
+,"Zam Wesell,Jango Fett",Coruscant,2
+,"Anakin Skywalker/Darth Vader,Obi-Wan Kenobi,R2-D2,Padme Amidala",Coruscant,2
+,"Obi-Wan Kenobi,R2-D2,Dorme,Captain Typho,Anakin Skywalker/Darth Vader",Coruscant,2
+,"Zam Wesell,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Coruscant,2
+,"Zam Wesell,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,Jango Fett",Coruscant,2
+,"Yoda,Mace Windu,Ki-Adi-Mundi,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Coruscant,2
+,"Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader",Coruscant,2
+,"Yoda,Obi-Wan Kenobi,Mace Windu",Coruscant,2
+,"Padme Amidala,Jar Jar Binks,Anakin Skywalker/Darth Vader",Coruscant,2
+,"Padme Amidala,R2-D2,Captain Typho,Anakin Skywalker/Darth Vader,Obi-Wan Kenobi,Dorme",Coruscant,2
+,"Obi-Wan Kenobi,Dexter Jetster",Coruscant,2
+,"Jocasta Nu,Obi-Wan Kenobi",Coruscant,2
+,"R2-D2,Anakin Skywalker/Darth Vader,Padme Amidala",Coruscant,2
+,"Yoda,Obi-Wan Kenobi",Coruscant,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Naboo,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader,Sio Bibble,Queen Jamillia",Naboo,2
+,"Taun We,Obi-Wan Kenobi",Kamino,2
+,"Taun We,Obi-Wan Kenobi,Lama Su",Kamino,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Naboo,2
+,"Taun We,Obi-Wan Kenobi,Lama Su",Kamino,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Naboo,2
+,"Taun We,Obi-Wan Kenobi,Jango Fett,Boba Fett",Kamino,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Naboo,2
+,"Yoda,Obi-Wan Kenobi,Mace Windu",Various,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Naboo,2
+,"Jango Fett,Boba Fett,Obi-Wan Kenobi",Kamino,2
+,"Watto,R2-D2,Anakin Skywalker/Darth Vader,Padme Amidala",Tatooine,2
+,"Jango Fett,Boba Fett,Obi-Wan Kenobi",Kamino,2
+,"Owen Lars,Beru Lars,Padme Amidala,Anakin Skywalker/Darth Vader,R2-D2,Cliegg Lars",Tatooine,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Tatooine,2
+,Anakin Skywalker/Darth Vader,Tatooine,2
+,"Count Dooku,Obi-Wan Kenobi,Nute Gunray,Rune Haako,San Hill,Emir Wat Tambor",Geonosis,2
+,"Shmi Skywalker,Anakin Skywalker/Darth Vader",Tatooine,2
+,"Yoda,Mace Windu",Coruscant,2
+,"Obi-Wan Kenobi,R4P17",Geonosis,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Tatooine,2
+,"R2-D2,C-3PO,Owen Lars,Beru Lars,Cliegg Lars,Padme Amidala,Anakin Skywalker/Darth Vader",Tatooine,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader,Jar Jar Binks,Emperor Palpatine/Darth Sidious,Ask Aak,Mas Amedda,Yoda,Mace Windu,Bail Organa",Various,2
+,"C-3PO,Anakin Skywalker/Darth Vader,Padme Amidala",Tatooine,2
+,"Ask Aak,Mas Amedda,Jar Jar Binks,Emperor Palpatine/Darth Sidious,Mace Windu,Yoda,Bail Organa",Coruscant,2
+,"Count Dooku,Obi-Wan Kenobi",Geonosis,2
+,"Jar Jar Binks,Emperor Palpatine/Darth Sidious,Mas Amedda,Mace Windu,Yoda",Coruscant,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader,C-3PO,R2-D2,Jango Fett",Geonosis,2
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,Padme Amidala",Geonosis,2
+,"Count Dooku,Nute Gunray,Obi-Wan Kenobi,Padme Amidala,Anakin Skywalker/Darth Vader,Jango Fett,Boba Fett,Rune Haako,Poggle the Lesser",Geonosis,2
+,"Mace Windu,C-3PO,Obi-Wan Kenobi,Padme Amidala,Count Dooku,Jango Fett,Boba Fett,R2-D2,Kit Fisto,Ki-Adi-Mundi,Plo Koon,Aayla Secura",Geonosis,2
+,"Yoda,Mace Windu,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,Padme Amidala,Boba Fett,R2-D2,C-3PO,Ki-Adi-Mundi,Plo Koon",Geonosis,2
+,"Yoda,Ki-Adi-Mundi,Mace Windu",Geonosis,2
+,"Padme Amidala,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Geonosis,2
+,"Count Dooku,Poggle the Lesser,Nute Gunray,Rune Haako",Geonosis,2
+,"Count Dooku,Padme Amidala,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Geonosis,2
+,"Count Dooku,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Geonosis,2
+,"Count Dooku,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,Yoda",Geonosis,2
+,"Count Dooku,Emperor Palpatine/Darth Sidious",Coruscant,2
+,"Yoda,Obi-Wan Kenobi,Mace Windu",Coruscant,2
+,"Bail Organa,Emperor Palpatine/Darth Sidious,Jar Jar Binks,Mas Amedda,Ask Aak",Coruscant,2
+,"Padme Amidala,Anakin Skywalker/Darth Vader,C-3PO,R2-D2",Naboo,2
+,"R2-D2,Anakin Skywalker/Darth Vader,Obi-Wan Kenobi",Coruscant,3
+,General Grievous,Coruscant,3
+,"R2-D2,Anakin Skywalker/Darth Vader,Obi-Wan Kenobi",Coruscant,3
+,"Obi-Wan Kenobi,Emperor Palpatine/Darth Sidious,Count Dooku,Anakin Skywalker/Darth Vader",Coruscant,3
+,"R2-D2,Emperor Palpatine/Darth Sidious,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Coruscant,3
+,"R2-D2,Emperor Palpatine/Darth Sidious,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,General Grievous",Coruscant,3
+,"R2-D2,Emperor Palpatine/Darth Sidious,Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Coruscant,3
+,"R2-D2,C-3PO,Mace Windu,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious,Bail Organa,Obi-Wan Kenobi",Coruscant,3
+,"Anakin Skywalker/Darth Vader,Padme Amidala",Coruscant,3
+,"Emperor Palpatine/Darth Sidious,General Grievous",Utapau,3
+,"Anakin Skywalker/Darth Vader,Padme Amidala",Coruscant,3
+,"Yoda,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Ki-Adi-Mundi,Yoda,Mace Windu,Plo Koon,Anakin Skywalker/Darth Vader,Obi-Wan Kenobi",Coruscant,3
+,"Anakin Skywalker/Darth Vader,Obi-Wan Kenobi",Coruscant,3
+,"Obi-Wan Kenobi,Yoda,Mace Windu",Various,3
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Mas Amedda,Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Obi-Wan Kenobi,Ki-Adi-Mundi,Yoda,Anakin Skywalker/Darth Vader,Plo Koon,Mace Windu",Various,3
+,"Yoda,Chewbacca",Kashyyyk,3
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Padme Amidala,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Tion Medon,Obi-Wan Kenobi",Utapau,3
+,"Obi-Wan Kenobi,General Grievous,Nute Gunray",Utapau,3
+,"Commander Cody,Yoda,Mace Windu,Anakin Skywalker/Darth Vader,Ki-Adi-Mundi",Various,3
+,"Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader",Coruscant,3
+,"General Grievous,Obi-Wan Kenobi",Utapau,3
+,"Anakin Skywalker/Darth Vader,Mace Windu",Coruscant,3
+,Padme Amidala,Coruscant,3
+,"C-3PO,Padme Amidala",Coruscant,3
+,"Mace Windu,Kit Fisto,Emperor Palpatine/Darth Sidious,Agen Kolar,Saesee Tiin",Coruscant,3
+,"Mace Windu,Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Commander Cody,Obi-Wan Kenobi",Utapau,3
+,"Commander Cody,Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Ki-Adi-Mundi,Plo Koon,Aayla Secura",Various,3
+,"Yoda,Chewbacca",Kashyyyk,3
+,Anakin Skywalker/Darth Vader,Coruscant,3
+,"Padme Amidala,C-3PO",Coruscant,3
+,"Bail Organa,Zett Jukassa",Coruscant,3
+,"Yoda,Obi-Wan Kenobi,Chewbacca",Various,3
+,"Captain Antilles,Bail Organa",Coruscant,3
+,"Obi-Wan Kenobi,Bail Organa",Utapau,3
+,"Anakin Skywalker/Darth Vader,Padme Amidala,C-3PO,R2-D2",Coruscant,3
+,"Bail Organa,Yoda,Obi-Wan Kenobi",Coruscant,3
+,"Nute Gunray,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Mas Amedda,Bail Organa,Obi-Wan Kenobi,Yoda",Coruscant,3
+,"Nute Gunray,R2-D2,Anakin Skywalker/Darth Vader",Mustafar,3
+,"Yoda,Obi-Wan Kenobi",Coruscant,3
+,"Padme Amidala,Bail Organa,Mas Amedda,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Anakin Skywalker/Darth Vader,Nute Gunray",Mustafar,3
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Coruscant,3
+,"Captain Typho,Padme Amidala,C-3PO",Coruscant,3
+,"Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Mustafar,3
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader,Padme Amidala,C-3PO",Mustafar,3
+,"Yoda,Mas Amedda,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Yoda,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Mustafar,3
+,"Yoda,Bail Organa",Coruscant,3
+,"Emperor Palpatine/Darth Sidious,Mas Amedda",Coruscant,3
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Mustafar,3
+,"Yoda,Bail Organa",Coruscant,3
+,"Obi-Wan Kenobi,Anakin Skywalker/Darth Vader",Mustafar,3
+,"R2-D2,C-3PO,Padme Amidala,Obi-Wan Kenobi",Mustafar,3
+,"R2-D2,Yoda,C-3PO,Bail Organa,Obi-Wan Kenobi,Padme Amidala",Polis Massa,3
+,"Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"R2-D2,Yoda,C-3PO,Bail Organa,Obi-Wan Kenobi,Padme Amidala,Luke Skywalker,Princess Leia",Polis Massa,3
+,"Anakin Skywalker/Darth Vader,Emperor Palpatine/Darth Sidious",Coruscant,3
+,"Yoda,Bail Organa,Obi-Wan Kenobi",Polis Massa,3
+,"Captain Antilles,Bail Organa,R2-D2,C-3PO",Polis Massa,3
+,"Jar Jar Binks,Sio Bibble,Boss Nass",Naboo,3
+,"Emperor Palpatine/Darth Sidious,Anakin Skywalker/Darth Vader",Star Destroyer,3
+,"Bail Organa,Princess Leia",Alderaan,3
+,"Obi-Wan Kenobi,Beru Lars,Owen Lars,Luke Skywalker",Tatooine,3
+,"Lor San Tekka,Kylo Ren,Poe Dameron,Finn,BB-8,Captain Phasma",Jakku,7
+,"BB-8,Rey,Unkar Plutt",Jakku,7
+,"Kylo Ren,Poe Dameron",Ren's Star Destroyer,7
+,"Finn,Poe Dameron",Ren's Star Destroyer,7
+,"Rey,Finn,BB-8",Jakku,7
+,"Rey,Finn,BB-8,Han Solo,Chewbacca",Millenium Falcon,7
+,"General Hux,Kylo Ren,Snoke",Star Killer Base,7
+,"Tasu Leech,Razoo Qin-Fee,Han Solo,Chewbacca,Finn,Rey,BB-8,Bala-Tik,",Eravana,7
+,"General Hux,Captain Phasma,Kylo Ren",Star Killer Base,7
+,"Han Solo,Chewbacca,Rey,BB-8,Finn,Maz Kanata,GA97,Bazine Netal",Takodana,7
+,"Rey,Maz Kanata,Finn,Sidon Ithano,Quiggold",Takodana,7
+,"Rey,BB-8,Kylo Ren",Takodana,7
+,"Han Solo,Finn,Chewbacca,Poe Dameron",Takodana,7
+,"Finn,Han Solo,Chewbacca,Princess Leia,C-3PO",Takodana,7
+,"Princess Leia,Han Solo,Chewbacca,Finn,Admiral Ackbar,BB-8,R2-D2,C-3PO,Lieutenant Connix",D'Qar,7
+,"Rey,Kylo Ren",Star Destroyer,7
+,"Han Solo,Finn,Chewbacca,Captain Phasma",Star Killer Base,7
+,"Poe Dameron,Snap Wexley,Jess Pava,Niv Lek,Yolo Ziff,Bastian,Nien Nunb,Ello Asty,BB-8",Star Killer Base,7
+,"Rey,Finn,Kylo Ren,Han Solo,Chewbacca",Star Killer Base,7
+,"General Hux,Snoke",Star Killer Base,7
+,"Princess Leia,Rey,R2-D2,BB-8,C-3PO,Poe Dameron,Chewbacca,Finn",D'Qar,7
+,"Rey,Luke Skywalker,R2-D2,Chewbacca",Ahch-To,7
+,"Galen Erso,Jyn Erso,Orson Krennic,Lyra Erso",Lah'mu,3.5
+,"Jyn Erso,Saw Gerrera",Lah'mu,3.5
+,"Jyn Erso,Oolin Musters",Wobani,3.5
+,"Cassian Andor,Tivik",Ring of Kafrene,3.5
+,"Bodhi Rook,Benthic,Saw Gerrera",Jedha,3.5
+,"Davits Draven,Jyn Erso,K-2SO",Wobani,3.5
+,"Jyn Erso,Mon Mothma,General Jan Dodonna,Bail Organa,Cassian Andor,Davits Draven",Yavin IV,3.5
+,"Grand Moff Tarkin,Orson Krennic",Star Destroyer,3.5
+,"Cassian Andor,Jyn Erso,K-2SO,Chirrut Imwe,Baze Malbus,Benthic",Jedha,3.5
+,"Cassian Andor,Jyn Erso,Bodhi Rook,Chirrut Imwe,Baze Malbus,Saw Gerrera,Benthic",Jedha,3.5
+,"Grand Moff Tarkin,Orson Krennic",Death Star ,3.5
+,"K-2SO,Jyn Erso,Cassian Andor,Chirrut Imwe,Baze Malbus,Bodhi Rook",Jedha,3.5
+,"K-2SO,Jyn Erso,Cassian Andor,Chirrut Imwe,Baze Malbus,Bodhi Rook,Galen Erso,Orson Krennic",Edau,3.5
+,"Orson Krennic,Anakin Skywalker/Darth Vader",Mustafar,3.5
+,"Mon Mothma,General Jan Dodonna,Bail Organa,Tynnra Palmo,Nower Jebel,Vasp Vasper,Davits Draven,Admiral Raddus,Antoc Merrick,Jyn Erso,Cassian Andor,Bodhi Rook,Chirrut Imwe,Baze Malbus",Yavin IV,3.5
+,"Jyn Erso,Cassian Andor,K-2SO,Bodhi Rook,Chirrut Imwe,Baze Malbus,Davits Draven",Yavin IV,3.5
+,"Jyn Erso,Orson Krannic,Cassian Andor",Scarif,3.5
+,"Antoc Merrick,Jon Vander,Garven Dreis",Scarif,3.5
+,"Captain Antilles,Princess Leia",Tantive 4,3.5
+,"General Hux,Captain Candy,Poe Dameron,Princess Leia,BB-8,Lieutenant Connix",D'Qar,8
+,"Tallissan Lintra,Poe Dameron,Paige Tico,Nix Jerd,Finch Dallow,Jaycris Tubbs,Stomeroni Starck",D'Qar,8
+,"Snoke,General Hux",D'Qar,8
+,"Princess Leia,Finn,Poe Dameron",Cruiser,8
+,"Luke Skywalker,Rey,Chewbacca,R2-D2",Ahch-To,8
+,"Kylo Ren,Snoke",Supremacy,8
+,"Luke Skywalker,Rey,Chewbacca,R2-D2",Ahch-To,8
+,"Princess Leia,Admiral Ackbar,Poe Dameron,Tallissan Lintra,Kylo Ren,Finn,General Hux,Stomeroni Starck",Cruiser,8
+,"Luke Skywalker,Rey,Chewbacca,R2-D2",Ahch-To,8
+,"Larma D'Acy,Vice Admiral Holdo,Poe Dameron,Finn,Rose Tico",Crusier,8
+,"Princess Leia,Finn,Poe Dameron,Rose Tico,Maz Kanata,C-3PO",Cruiser,8
+,"Luke Skywalker,Rey",Ahch-To,8
+,"Kylo Ren,Rey",Various,8
+,"Poe Dameron,Finn,BB-8,Rose Tico",Cruiser,8
+,"Finn,Rose Tico,BB-8,Slowen Lo",Canto Bight,8
+,"Finn,Rose Tico,BB-8,Slowen Lo,Bargwill Tomder,Lovery,DJ",Canto Bight,8
+,"General Hux,Vice Admiral Holdo,Lieutenant Connix,Poe Dameron",Cruiser,8
+,"Temiri Blagg,Rose Tico,DJ,Finn",Canto Bight,8
+,"Kylo Ren,Rey",Various,8
+,"Yoda,Luke Skywalker",Ahch-To,8
+,"DJ,Captain Phasma,Finn,Rose Tico,BB-8,Ansiv Garmuth",Supremacy,8
+,"Poe Dameron,Vice Admiral Holdo,C-3PO,Lieutenant Connix,Princess Leia,Larma D'Acy",Crusier,8
+,"Snoke,Rey,Kylo Ren",Supremacy,8
+,"General Hux,Rose Tico,Finn,DJ,Captain Phasma,BB-8",Supremacy,8
+,"Princess Leia,Rose Tico,Finn,Poe Dameron,C'aiThrenalli,Pammich Nerro Goode,Caluan Ematt",Crait,8
+,"Kylo Ren,General Hux",Crait,8
+,"Rey,Chewbacca,R2-D2",Crait,8
+,"Kylo Ren,Luke Skywalker",Criat,8
+,"Rose Tico,Rey,Poe Dameron,Chewbacca,Princess Leia,R2-D2,C-3PO",Millenium Falcon,8
+,"Bargwill Tomder,Temiri Blagg",Canto Bight,8
+,"Qi'ra,Han Solo,Lady Proxima,Moloch,Syke,Rebolt",Corellia,3.55
+,"Han Solo,Qi'ra,Moloch",Corellia,3.55
+,"Qi'ra,Han Solo,Falthina Sharest",Corellia,3.55
+,"Han Solo,Drawd Munrin",Corellia,3.55
+,"Han Solo,Major Staz,Collum Woslo,Sharlu Greslin,Danith Nodar,Wesger Odry,Tobias Beckett",Mimban,3.55
+,"Han Solo,Tobias Beckett,Val,Rio Durant,Lieutenant Bolandin",Mimban,3.55
+,"Han Solo,Chewbacca,Tobias Beckett,Val,Rio Durant,Enfys Nest",Mimban,3.55
+,"Dryden Vos,Han Solo,Tobias Beckett,Chewbacca,Aemon Gremm,Margo,Diles Anevi,Qi'ra",Fort Ypso,3.55
+,"Qi'ra,Han Solo,Tobias Beckett,Chewbacca,Lando Calrissian,Weazel,L3-37,Ralakili",Fort Ypso,3.55
+,"Han Solo,Lando Calrissian,L3-37,Tobias Beckett,Chewbacca,Qi'ra",Millenium Falcon,3.55
+,"Quay Tolsite,Tobias Beckett,Han Solo,Chewbacca,Qi'ra,L3-37",Kessel,3.55
+,"DD-B8,L3-37,Han Solo,Chewbacca,Sagwa,Tobias Beckett,Lando Calrissian,Qi'ra,Tak",Kessel,3.55
+,"Dhowar Repareed,Han Solo,Chewbacca,Lando Calrissian,Tobias Beckett,Qi'ra",Savareen,3.55
+,"Kenholdt Ransard,Enfy Nest,Qi'ra,Han Solo,Chewbacca,Lando Calrissian,Tobias Beckett",Savareen,3.55
+,"Dryden Vos,Han Solo,Qi'ra,Chewbacca,Tobias Beckett",Savareen,3.55
+,"Aemon Gremm,Enfys Nest,Auromae Iselo",Savareen,3.55
+,"Dryden Vos,Han Solo,Qi'ra,Chewbacca,Tobias Beckett",Savareen,3.55
+,"Qi'ra,Darth Maul",Savareen,3.55
+,"Han Solo,Chewbacca,Tobias Beckett",Savareen,3.55
+,"Lando Calrissian,Han Solo,Chewbacca",Numidian Prime,3.55
+,"Kylo Ren,Emperor Palpatine/Darth Sidious",Exegol,9
+,"Finn,Poe Dameron,Chewbacca,Ovissian Boolio",Sinta,9
+,"Rey,Princess Leia,BB-8",Ajan Kloss,9
+,"Rey,Poe Dameron,Finn,BB-8,Chewbacca,Lieutenant Connix,Princess Leia,C-3PO,Rose Tico,Beaumont Kin,R2-D2",Ajan Kloss,9
+,"Albrekh,Kylo Ren,General Hux,General Pryde,Quinn",Star Destroyer,9
+,"Nambi Ghima,C-3PO,Rey,Finn,Chewbacca,Poe Dameron",Pasaana,9
+,"Rey,Lando Calrissian,Finn,Poe Dameron,C-3PO,BB-8",Pasaana,9
+,"Kylo Ren,Rey,Chewbacca,BB-8,C-3PO,Poe Dameron,Finn",Pasaana,9
+,"BB-8,C-3PO,D-O,Finn,Poe Dameron,Rey",Pasaana,9
+,"Zorii Bliss,Rey,Finn,C-3PO,Poe Dameron,BB-8,Babu Frik",Kijimi,9
+,"Chewbacca,Finn,Poe Dameron,General Hux",Star Destroyer,9
+,"Rey,Kylo Ren",Various,9
+,"General Hux,General Pryde",Star Destroyer,9
+,"Jannah,Finn,Rey,Poe Dameron,BB-8,D-O",Kef Bir,9
+,"Finn,Rey,Kylo Ren",Kef Bir,9
+,"Emperor Palpatine/Darth Sidious,General Pryde",Star Destroyer,9
+,"Rey,Emperor Palpatine/Darth Sidious,Kylo Ren",Exegol,9
+,"Poe Dameron,Finn,BB-8,Rose Tico,Snap Wexley,Jannah",Exegol,9
+,"Wedge Antilles,Poe Dameron,Lando Calrissian,Chewbacca,Nien Nunb,Zorii Bliss,Babu Frik",Exegol,9
+,"Maz Kanata,Princess Leia,Lieutenant Connix",Ajan Kloss,9
+,"Maz Kanata,Princess Leia,Lieutenant Connix,Chewbacca,Rey,Finn,Poe Dameron,Rose Tico,Zorii Bliss,Jannah,Lando Calrissian",Ajan Kloss,9
+,"Rey,Kylo Ren,Han Solo,Princess Leia",Kef Bir,9
